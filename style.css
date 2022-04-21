@@ -151,3 +151,7 @@ button.cta {
     justify-content: space-around;
     padding: 40px;
 }
+
+.CTA .container .text{
+    color: #F9FAF8;
+}
