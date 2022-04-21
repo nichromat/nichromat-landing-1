@@ -32,3 +32,7 @@ ul.nav-links a{
     justify-content: center;
     background-color: #1F2937;
 }
+
+.Hero .text, .Hero .image{
+    width: 400px;
+}
