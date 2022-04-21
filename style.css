@@ -106,6 +106,7 @@ button.cta {
     flex-direction: column;
     justify-content: center;
     text-align: center;
+    color: #1F2937;
 }
 
 .illustration {
