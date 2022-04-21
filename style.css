@@ -90,6 +90,10 @@ button.cta{
     display: flex;
 }
 
+.info-box{
+    width: 200px;
+}
+
 .illustration{
     width: 150px;
     height: 150px;
@@ -98,6 +102,3 @@ button.cta{
     margin-bottom: 16px;
 }
 
-.info-box{
-    width: 200px;
-}
