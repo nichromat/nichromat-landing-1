@@ -45,6 +45,7 @@ ul.nav-links a {
     justify-content: center;
     background-color: #1F2937;
     padding: 80px;
+    gap: 32px;
 }
 
 .Hero .text,
