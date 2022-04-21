@@ -29,4 +29,5 @@ ul.nav-links a{
 
 .Hero{
     display: flex;
+    justify-content: center;
 }
