@@ -152,7 +152,7 @@ button.cta {
 .CTA .container{
     display: flex;
     background-color: #3882F6;
-    flex: 1;
+    width: 800px;
     justify-content: space-around;
     padding: 50px;
     border-radius: 10px;
