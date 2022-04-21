@@ -37,3 +37,7 @@ ul.nav-links a{
 .Hero .text, .Hero .image{
     width: 400px;
 }
+
+.Hero .text h1{
+    font-size: 48px;
+}
