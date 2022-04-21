@@ -88,3 +88,11 @@ button.cta{
 .Feature .container{
     display: flex;
 }
+
+.illustration{
+    width: 150px;
+    height: 150px;
+    border: 4px solid #3882F6;
+    border-radius: 20px;
+    margin-bottom: 16px;
+}
