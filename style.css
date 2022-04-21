@@ -69,4 +69,6 @@ button.cta{
 
 .image{
     display: flex;
+    background-color: #6D747D;
+    color: #F9FAF8;
 }
