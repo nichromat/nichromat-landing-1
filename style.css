@@ -101,7 +101,7 @@ button.cta {
 }
 
 .info-box {
-    width: 200px;
+    width: 150px;
     display: flex;
     flex-direction: column;
     justify-content: center;
