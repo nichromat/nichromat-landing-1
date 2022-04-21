@@ -123,4 +123,9 @@ button.cta {
     font-style: italic;
     color: #1F2937;
     padding: 80px 400px;
+    font-weight: 300;
+}
+
+.Quote p.author{
+    font-size: 24px;
 }
