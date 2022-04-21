@@ -74,3 +74,7 @@ button.cta{
     justify-content: center;
     align-items: center;
 }
+
+.Feature{
+    padding: 80px;
+}
