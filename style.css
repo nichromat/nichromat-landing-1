@@ -117,6 +117,7 @@ button.cta {
 }
 
 .Quote{
+    display: flex;
     background-color: #E5E7EB;
     padding: 80px 400px;
     font-weight: 300;
