@@ -155,3 +155,13 @@ button.cta {
 .CTA .container .text{
     color: #F9FAF8;
 }
+
+.CTA .container button{
+    color: white;
+    background-color: #3882F6;
+    border: 1px solid white;
+    padding: 8px 30px;
+    font-size: 18px;
+    border-radius: 8px;
+    font-weight: 700;
+}
