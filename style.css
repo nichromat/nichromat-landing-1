@@ -4,7 +4,7 @@ body{
 .Header{
     display: flex;
     justify-content: space-between;
-    padding: 0 30px;
+    padding: 15px 30px;
     background-color: #1F2937;
 }
 .Header .logo{
