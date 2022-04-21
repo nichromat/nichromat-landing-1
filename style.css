@@ -166,3 +166,10 @@ button.cta {
     border-radius: 8px;
     font-weight: 700;
 }
+
+.Footer{
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    padding: 40px;
+}
