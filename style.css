@@ -117,17 +117,17 @@ button.cta {
 }
 
 .Quote{
-    text-align: center;
     background-color: #E5E7EB;
-    font-size: 36px;
-    font-style: italic;
-    color: #1F2937;
     padding: 80px 400px;
     font-weight: 300;
 }
 
-.Quote p{
+.Quote p.text{
     margin-bottom: 8px;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    text-align: center;
 }
 
 .Quote p.author{
