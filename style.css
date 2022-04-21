@@ -145,5 +145,6 @@ button.cta {
 }
 
 .CTA .container{
+    display: flex;
     background-color: #3882F6;
 }
