@@ -60,4 +60,5 @@ ul.nav-links a{
 button.cta{
     background-color: #3882F6;
     color: white;
+    border-style: none;
 }
