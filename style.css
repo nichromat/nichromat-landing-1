@@ -66,3 +66,7 @@ button.cta{
     border-radius: 8px;
     font-weight: 700;
 }
+
+.media-placeholder{
+    background-color: gray;
+}
