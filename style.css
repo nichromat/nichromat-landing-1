@@ -84,3 +84,7 @@ button.cta{
     text-align: center;
     color: #1F2937;
 }
+
+.Feature .container{
+    display: flex;
+}
