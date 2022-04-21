@@ -67,6 +67,10 @@ button.cta{
     font-weight: 700;
 }
 
+.image{
+    display: flex;
+}
+
 .media-placeholder{
     background-color: gray;
     color: #F9FAF8;
