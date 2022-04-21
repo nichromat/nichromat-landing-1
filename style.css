@@ -141,6 +141,7 @@ button.cta {
     display: flex;
     padding: 100px;
     justify-content: center;
+    align-items: center;
 }
 
 .Call-to-action .container{
