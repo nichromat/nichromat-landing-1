@@ -150,6 +150,7 @@ button.cta {
     flex: 1;
     justify-content: space-around;
     padding: 40px;
+    border-radius: 10px;
 }
 
 .CTA .container .text{
