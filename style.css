@@ -137,6 +137,10 @@ button.cta {
     font-weight: 700;
 }
 
+.Call-to-action{
+    display: flex;
+}
+
 .Call-to-action .container{
     background-color: #3882F6;
 }
