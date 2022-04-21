@@ -3,3 +3,7 @@
     justify-content: space-between;
     padding: 0 30px;
 }
+
+.Header ul.nav-links{
+    display: flex;
+}
