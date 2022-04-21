@@ -123,6 +123,9 @@ button.cta {
     font-weight: 300;
 }
 
+.Quote .container{
+    width: 600px;
+}
 .Quote p.text{
     margin-bottom: 16px;
     font-size: 36px;
