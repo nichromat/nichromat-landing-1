@@ -78,3 +78,7 @@ button.cta{
 .Feature{
     padding: 80px;
 }
+
+.Feature h3{
+    font-size: 36px;
+}
