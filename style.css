@@ -42,9 +42,10 @@ ul.nav-links a {
 
 .Hero {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     background-color: #1F2937;
-    padding: 100px;
+    padding: 100px 0;
     gap: 32px;
 }
 
@@ -52,7 +53,9 @@ ul.nav-links a {
 .Hero .image {
     width: 400px;
 }
-
+.Hero .image{
+    height: 200px;
+}
 .Hero .text h1 {
     font-size: 48px;
     font-weight: 900;
