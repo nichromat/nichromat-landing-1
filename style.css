@@ -137,13 +137,13 @@ button.cta {
     font-weight: 700;
 }
 
-.Call-to-action{
+.CTA{
     display: flex;
     padding: 100px;
     justify-content: center;
     align-items: center;
 }
 
-.Call-to-action .container{
+.CTA .container{
     background-color: #3882F6;
 }
