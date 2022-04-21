@@ -6,4 +6,5 @@
 
 .Header ul.nav-links{
     display: flex;
+    list-style: none;
 }
